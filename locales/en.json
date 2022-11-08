@@ -1,0 +1,148 @@
+{
+    "view-cart": "View Cart",
+    "search": "Search",
+    "search-result": "Search result:",
+    "item-found": "item found for ",
+    "0-item-found": " 0 item found",
+    "check-order": "Check Your Order",
+    "order-summary": "Order Summary",
+    "subtotal": "subtotal:",
+    "delivery-fee": "Delivery Fee:",
+    "coupon-discount": "Coupon Discount:",
+    "total": "TOTAL:",
+    "continue": "CONTINUE",
+    "confirm": "CONFIRM",
+    "back": "BACK",
+
+    "personal-detail": "Personal Details",
+    "phone": "Phone",
+    "contact-required": "Contact number is required!",
+    "name": "Name",
+    "name-required": "Name is required!",
+    "name-length-30": "Name must be less than 30 characters",
+    "email": "Email(Optional)",
+    "email-valid": "E-mail must be valid",
+    "city": "City",
+    "city-required": "City is required!",
+    "state": "State",
+    "state-required": "State is required!",
+    "country": "Country",
+    "country-required": "Country is required!",
+    
+    "note-length-1000": "Note must be less than 1000 characters",
+    "comfirm": "CONFIRM",
+    "comfirm-personal-details": "CONFIRM YOUR DETAILS",
+
+    "delivery-detail": "Delivery Details",
+    "DELIVERY": "DELIVERY",
+    "SELF-COLLECT": "SELF COLLECT",
+
+    "delivery-date": "Delivery Date",
+    "delivery-date-required": " Date required!",
+    "delivery-time": "Delivery Time",
+    "delivery-time-required": " Time required!",
+
+    "self-collect-date": "Collect Date",
+    "self-collect-date-required": "Collect Date required!",
+    "self-collect-time": "Collect Time",
+    "self-collect-time-required": "Collect Time required!",
+
+
+    "EDIT": "EDIT",
+    "comfirm-delivery-details": "CONFIRM YOUR DELIVERY DETAILS",
+    "address": "address",
+    "address-required": "Address is required!",
+    "postcode": "postcode",
+    "postcode-required": "Postcode is required!",
+
+    "payment-detail": "Payment Method",
+    "comfirm-payment-details": "CONFIRM YOUR PAYMENT DETAILS",
+    "payment-bank-transfer": "BANK TRANSER",
+    "payment-cod": "CASH ON DELIVERY",
+    "payment-fpay": "FPAY ONLINE BANKING",
+    "payment-ipay": "iPay88 Payment Gateway",
+    "payment-manual-tng": "Touch N Go EWALLET",
+    "payment-manual-boost": "Boost EWALLET",
+    "payment-manual-duit-now": "Duit Now QR",
+    "payment-manual-sarawak-pay": "Sarawak Pay QR",
+
+    "manual-bank-transfer": "Manual Bank Transfer",
+    "send-receipt-whatsapp": "send receipt to us via whatsapp",
+    "payment-cod-description": "Pay after delivery",
+
+    "coupon": "Coupon",
+    "enter-coupon": "Enter Coupon",
+    "enter-coupon-code": "Enter Coupon Code",
+    "remove-coupon": "Remove Coupon",
+    "apply-coupon": "Apply",
+    "close": "Close",
+    "coupon-added": "Coupon added",
+    "coupon-free-shipping": "Free Shipping",
+
+    "order-completed": "Order Completed",
+    "redirect-text": "Redirect to whatsapp...Later remember to press send",
+    "area-not-in-coverage": "Area not in coverage!",
+    "fpay-connect-failed": "Failed to connect Fpay gateway! Contact Merchant",
+    "fpay-min-purchase": "Min purchase RM",
+    "product-price-invalid": "Product Price Change. Please Refresh",
+    "product-stock-invalid": "Stock Changed. Please Check Cart",
+    "order-failed": "Error! Try refresh",
+    "item-out-of-stock": "Item out of stock. Please Check",
+
+    "return-main-shop": "BACK TO SHOP",
+    "note": "NOTE",
+    "add-to-cart": "ADD TO CART",
+    "dont-close-browser":"Please Do Not Close Browser",
+    "about-item":"About this item",
+    "share-item":"Share this item:",
+    "product-price":"price",
+    "product-option":"Option",
+    "product-option-required":"Required",
+    "product-option-optional":"Optional",
+    "product-option-select-one":"Select 1",
+    "product-option-select-multiple":"Select up to ",
+    "product-option-select-multiple-quantifier":"",
+    "product-option-at-least-error":"Select at least ",
+    "product-option-at-least-error-last-word":"",
+    "store-closed":"Closed",
+    "store-closed-now":"Store closed",
+    "min-purchase":"Minimum purchase",
+
+    "clear-cart":"clear cart",
+
+    "your-order":"Your order",
+    "has-been-placed":" Has Been Placed!",
+    "successfully-placed":"Your order has been successfully placed!",
+    "direct-question":"Please direct any questions you have to the ",
+    "store-owner":"store owner",
+    "thanks-shopping":"Thanks for shopping with us online!",
+    "scan-qr":"Scan QR Code or Screenshot to make payment",
+    "online-transfer-below":"Online transfer To Bank Below ",
+    "bank-details":"Bank details",
+    "confirm-payment":"Please ensure you have made the payment before proceeding.",
+    "address-invalid":"Address invalid. Type full address",
+    "address-error":"Calculate Shipping Fee Failed. Please Try again",
+    "full-address":"Fill in Full Address",
+    "half-address":"Fill in Address",
+    "upload-receipt":"Upload receipt",
+    "success-upload":"Successfully uploaded. You will be redirect to whatsapp now",
+    "product-variant":"Select Variation",
+    "most-order":"Most ordered right now.",
+    "note-required":"Note is required.",
+    "all":"All",
+    "category":"Category",
+    "uncategorised":"Uncategorised"
+
+
+    
+   
+    
+    
+
+    
+    
+    
+    
+    
+    
+}

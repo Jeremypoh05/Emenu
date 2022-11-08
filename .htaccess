@@ -1,0 +1,17 @@
+RewriteEngine on
+
+RewriteCond %{HTTP_HOST} ^phangfishery\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.phangfishery\.com$
+RewriteRule ^/?$ "https\:\/\/phangfishery\.com\/phangfishery" [R=302,L]
+
+
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+  RewriteRule ^index\.html$ - [L]
+  RewriteCond %{REQUEST_FILENAME} !-f
+  RewriteCond %{REQUEST_FILENAME} !-d
+  RewriteRule . /index.html [L]
+</IfModule>
+

@@ -1,0 +1,33 @@
+{
+  "name": "emenu",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "heroku-postbuild": "npm run build"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.13.1",
+    "@pderas/vue2-geocoder": "^1.1.0",
+    "core-js": "^3.9.1",
+    "google-distance-matrix": "^1.1.1",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1",
+    "nuxt": "^2.15.3",
+    "nuxt-i18n": "^6.26.0",
+    "v-radio-deselectable": "^1.0.3",
+    "vue-i18n": "^8.24.4",
+    "vue-number-animation": "^1.0.5",
+    "vue-number-input-spinner": "^2.2.0",
+    "vue-page-transition": "^0.2.2",
+    "vue-scrollactive": "^0.9.3",
+    "vue-tel-input-vuetify": "^1.5.3",
+    "vue2-google-maps": "^0.10.7"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.3"
+  }
+}
